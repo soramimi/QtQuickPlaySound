@@ -1,0 +1,6 @@
+Makefile
+QtQuickPlaySound
+.qmake.stash
+*.user
+*.o
+
